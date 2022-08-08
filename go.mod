@@ -1,4 +1,4 @@
-module github.com/pagero/go-gocd-ashwanth
+module github.com/bpdans/go-gocd-ashwanth
 
 go 1.18
 
